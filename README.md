@@ -7,3 +7,6 @@ The dataset is organized into one folder (Village Plant) and contains subfolders
 # Constraints
 * False Negative , is the biggest constraint for any botany based ML & DL based problems, we need to minimize this.
 * Latancy is not the problem as tradition approches takes weeks.
+
+
+Plant Disease Detection [Computer Vision]: https://www.kaggle.com/emmarex/plantdisease
